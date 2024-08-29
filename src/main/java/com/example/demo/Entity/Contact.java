@@ -20,7 +20,7 @@ public class Contact {
 	private String contactName;
 	@Column(name = "CONTACT_EMAIL")
 	private String contacrEmail;
-	@Column(name = "CONTACT__NUMBER")
+	@Column(name = "CONTACT_NUMBER")
 	private long contactNumber;
 
 }
